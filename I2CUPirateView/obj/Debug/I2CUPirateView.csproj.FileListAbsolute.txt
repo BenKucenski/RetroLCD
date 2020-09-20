@@ -1,0 +1,9 @@
+C:\web\my\my-pi-projects\arduino\I2CUPirateView\obj\Debug\I2CUPirateView.csprojAssemblyReference.cache
+C:\web\my\my-pi-projects\arduino\I2CUPirateView\obj\Debug\I2CUPirateView.csproj.CoreCompileInputs.cache
+C:\web\my\my-pi-projects\arduino\I2CUPirateView\bin\Debug\I2CUPirateView.exe.config
+C:\web\my\my-pi-projects\arduino\I2CUPirateView\bin\Debug\I2CUPirateView.exe
+C:\web\my\my-pi-projects\arduino\I2CUPirateView\bin\Debug\I2CUPirateView.pdb
+C:\web\my\my-pi-projects\arduino\I2CUPirateView\bin\Debug\ConsoleGameEngine.dll
+C:\web\my\my-pi-projects\arduino\I2CUPirateView\obj\Debug\I2CUPirateView.csproj.CopyComplete
+C:\web\my\my-pi-projects\arduino\I2CUPirateView\obj\Debug\I2CUPirateView.exe
+C:\web\my\my-pi-projects\arduino\I2CUPirateView\obj\Debug\I2CUPirateView.pdb
